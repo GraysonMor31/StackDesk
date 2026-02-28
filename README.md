@@ -138,4 +138,4 @@ Designed for GitOps workflows and secure CI/CD pipelines.
 
 StackDesk exists to help IT and cybersecurity consultancies operate securely, efficiently, and independently — without SaaS lock-in.
 
-Operate your stack. Secure your business.
+Operate your stack. Secure your business. Do it all, just easier.
