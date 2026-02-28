@@ -58,7 +58,7 @@ Security is not an add-on — it is foundational.
 - Audit export capabilities
 
 ### Remote Access Tracking
-- Multi-client remote access references
+- Multi-client remote access
 - Secure metadata tracking (no plaintext secrets stored)
 
 ---
@@ -100,8 +100,10 @@ Security is not an add-on — it is foundational.
 StackDesk is designed with pluggable integrations:
 
 - Self-hosted AI agents
-- GitHub integration
-- OnlyOffice integration
+- GitHub Integration
+- OnlyOffice Integration
+- Google Workspace Integration
+- Microsoft 365 Integration
 - Future API-first external integrations
 
 AI functionality is optional and sandboxed, ensuring secure operation in controlled environments.
